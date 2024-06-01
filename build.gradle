@@ -9,6 +9,7 @@ description = 'DeluxeCoinflip'
 
 repositories {
     mavenCentral()
+    mavenLocal()
     maven { url = uri('https://repo.papermc.io/repository/maven-public/') }
     maven { url = uri('https://ci.ender.zone/plugin/repository/everything/') }
     maven { url = uri('https://jitpack.io') }
